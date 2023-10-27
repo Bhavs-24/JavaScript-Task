@@ -68,6 +68,10 @@ if (shoppingDone) {
   childsAllowance = 5;
 }
 console.log(childsAllowance)
+
+for (let step = 0; step < 5; step++) {
+    console.log("Walking east one step");
+  }
 // let myButton = document.querySelector("button");
 // let myHeading = document.querySelector("h1");
 // function setUserName() {
